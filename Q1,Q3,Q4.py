@@ -1,7 +1,7 @@
 #Q1) 
 def distance_calculator(vector1, vector2):
     # Prompt the user to choose between Manhattan or Euclidean distance
-    choice = input("Manhattan or Euclidean (M/E): ")
+    choice = input("Manhattan distance or Euclidean distance (M/E): ")
     
     # Initialize an empty list to store the vectors
     vectors = []
